@@ -1,8 +1,3 @@
-/*
- * Danor Sinai, ID: 311156616;
- * Sahar Oz, ID:311285514;
- */
-
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
